@@ -38,7 +38,7 @@ Install the [Homebrew](https://brew.sh/) package manager: open a terminal window
 ### Git
 
 You may already have it!
-Try opening a terminal and typing `git --version`.
+Open a terminal and type `git --version`.
 
 If this prints something like `git version X.XX.X`, git is already installed! If so, skip to the next section on "Git configuration".
 
