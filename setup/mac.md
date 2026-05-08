@@ -91,7 +91,7 @@ This should open the current directory in a VSCode window.
 ### Python
 
 1. Open a new terminal and type the following command, then press `Enter`.
-   - If you are on an Apple Silicon Mac (upper left corner Apple menu -> `About This Mac` says something like "Chip: Apple M1" (or M2, etc.)):
+   - If you are on an Apple Silicon Mac (upper left corner Apple menu -> `About This Mac` says something like `Chip: Apple M1` (or `M2`, etc.)):
       ```bash
       curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
       ```
@@ -100,10 +100,18 @@ This should open the current directory in a VSCode window.
       curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
       ```
 
-2. Run the installation script:
-   ```bash
-   bash Miniconda3-latest-MacOSX-x86_64.sh
-   ```
+2. Run the installation script you just downloaded.
+
+   - If you are on an Apple Silicon Mac, run:
+      ```bash
+      bash Miniconda3-latest-MacOSX-arm64.sh
+      ```
+
+   - Otherwise:
+      ```bash
+      bash Miniconda3-latest-MacOSX-x86_64.sh
+      ```
+
    - A license agreement will be displayed and the bottom of the terminal will read `--More--`.
    Press `Enter` or the space bar until you are prompted with `Do you accept the license terms? [yes|no]`.
    Type `yes` and then press `Enter`.
@@ -117,9 +125,15 @@ This should open the current directory in a VSCode window.
      If your issue is still not resolved, skip the following step and contact an instructor on the #help-installation channel of the QLS612-BHS Slack.
 4. Type the following to remove the installation script that was downloaded:
 
-   ```bash
-   rm ./Miniconda3-latest-MacOSX-x86_64.sh
-   ```
+   - If you are on an Apple Silicon Mac:
+      ```bash
+      rm ./Miniconda3-latest-MacOSX-arm64.sh
+      ```
+
+   - Otherwise:
+      ```bash
+      rm ./Miniconda3-latest-MacOSX-x86_64.sh
+      ```
 
 #### Python packages
 
