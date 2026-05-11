@@ -33,7 +33,7 @@ operating systems (Windows, Mac OS, and Linux).
 
 - A command-line shell: Bash
 - A version control system: Git
-- A remote-capable text editor: VSCode
+- A text editor and integrated development environment: Visual Studio Code
 - Python 3 via Miniconda
 - A virtualization system: Docker
 - A GitHub account

@@ -18,10 +18,14 @@ necessary, follow these steps:
 
 ### Git
 
-You may already have it;
-try typing `sudo apt-get install git` (Ubuntu, Debian)
-or `sudo dnf install git` (Fedora) inside the terminal.
-If you are prompted to install it follow the instructions on-screen to do so.
+You may already have it!
+Open a terminal and type `git --version`.
+
+If this prints something like `git version X.XX.X`, git is already installed! If so, skip to the next section on "Git configuration".
+
+If `git` is not installed, type `sudo apt-get install git` (Ubuntu, Debian)
+or `sudo dnf install git` (Fedora),
+then follow the instructions on-screen to complete the installation.
 
 {% include extra-git-setup.html %}
 
