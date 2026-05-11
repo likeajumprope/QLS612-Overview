@@ -76,7 +76,7 @@ Topics include:
 
 ## Resources
 
-- [Beginner's Python Cheat Sheet](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2026/04_intro-python/beginners_python_cheat_sheet_pcc_all.pdf)
+<!-- - [Beginner's Python Cheat Sheet](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2026/04_intro-python/beginners_python_cheat_sheet_pcc_all.pdf) -->
 -   [Think Python 2e textbook](https://greenteapress.com/wp/think-python-2e/)
 -   [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 

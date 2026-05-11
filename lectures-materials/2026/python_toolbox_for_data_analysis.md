@@ -18,7 +18,7 @@ At the end of the lecture, participants will be able to:
 
 ## Material
 
-[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/05_numpy-scipy)
+<!--[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/05_numpy-scipy) -->
 
 ## Resources
 
@@ -39,7 +39,7 @@ At the end of the lecture, participants will be able to:
 
 ### More resources on Python code optimization
 
--   [Python map() function with EXAMPLES](https://www.guru99.com/python-map-function.html)
+<!---   [Python map() function with EXAMPLES](https://www.guru99.com/python-map-function.html) -->
 -   [Computation on NumPy Arrays: Universal Functions](https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html)
 
 ---

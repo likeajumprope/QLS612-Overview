@@ -49,12 +49,12 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 
 ## Material
 
-[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/06_pandas)
+<!--[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/06_pandas) -->
 
 ## Resources
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- [Neurohackademy lecture on Pandas](https://neurohackademy.org/course/complex-data-structures/)
+<!--- [Neurohackademy lecture on Pandas](https://neurohackademy.org/course/complex-data-structures/)-->
 
 ## Extras
 

@@ -35,7 +35,7 @@ You will learn how to:
 <object data="{{ site.url }}/assets/material/02_terminal-bash_BMcP_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
-[Exercises](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2026/02_terminal-bash/introduction-to-bash-in-class-exercises.ipynb)
+<!--[Exercises](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2026/02_terminal-bash/introduction-to-bash-in-class-exercises.ipynb) -->
 
 ## Extras
 
