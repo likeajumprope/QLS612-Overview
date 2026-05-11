@@ -4,7 +4,7 @@ title: 🐍 Python toolbox for data analysis 🐍
 description: "Scientific Python: NumPy and Scipy"
 ---
 
-**Instructor:** [Ines](https://ca.linkedin.com/in/in%C3%A9s-gp)
+**Instructor:** <!--[Ines](https://ca.linkedin.com/in/in%C3%A9s-gp)-->
 
 ## Outline
 
