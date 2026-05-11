@@ -4,7 +4,7 @@
 <pre>
 conda config --append channels conda-forge  # add conda-forge as a source for packages (channel)
 conda config --set channel_priority strict  # prioritize packages based on channel order
-conda create -n qlsc612 -y python=3.12 flake8 jupyter nilearn matplotlib seaborn bokeh statsmodels plotly wordcloud
+conda create -n qlsc612 -y python=3.12 flake8 jupyter nilearn scikit-learn pandas matplotlib seaborn bokeh statsmodels plotly wordcloud
 conda activate qlsc612
 </pre>
 </p>
@@ -18,6 +18,6 @@ will activate this Python environment (the default environment is <code>base</co
 </p>
 
 <p>
-Once the commands have finished running, you should see `(qlsc612)` at the beginning of your terminal prompt
+Once the commands have finished running, you should see <code>(qlsc612)</code> at the beginning of your shell prompt
 to indicate that the new environment is active.
 </p>
