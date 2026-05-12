@@ -30,7 +30,7 @@ In this module, you will:
 <object data="{{ site.url }}/assets/material/09_machine-learning-2_MT_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
-[Link to exercises](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/09_machine_learning2)
+[Link to Clustering exercises](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/09_machine_learning2)
 [Link to Clustering slides](https://docs.google.com/presentation/d/1iQT1R-tQW0LAOo3JK23NdumGBl_AauEcm5jIzpqDwPc/edit?usp=sharing)
 
 ## Resources
