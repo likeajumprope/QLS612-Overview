@@ -4,7 +4,7 @@ title: Introduction to Machine Learning part 1
 description: 🤖 Supervised Learning 📖
 ---
 
-**Instructor:** [Michelle Wang](https://github.com/michellewang) & [Mohammad Torabi](https://github.com/mtorabi59)
+**Instructor:** [Nikhil Bhagwat](https://github.com/nikhil153) & [Mohammad Torabi](https://github.com/mtorabi59)
 
 ## Outline
 
