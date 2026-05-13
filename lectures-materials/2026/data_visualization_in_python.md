@@ -4,7 +4,7 @@ title: 👀 Introduction to data visualization in Python 🐍
 description: 👀🐍
 ---
 
-**Instructor:** [Dr. Johanna Bayer](https://www.linkedin.com/in/johanna-bayer/)
+**Instructor:** [Dr. Johanna Bayer](https://www.linkedin.com/johanna-bayer/)
 
 ## Outline
 
