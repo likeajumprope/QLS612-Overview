@@ -54,7 +54,6 @@ you can install some tools that will help you personalize your terminal!
 
 Examples:
 <!-- An example of how to edit the preferences for a Mac terminal to change its look and feel: -->
-<!-- {% include youtube.html youtube_id ="xyCtdGqdQ5U?si=H1L8ZdUZVZFCEabc" %} -->
 
 - [starship](https://starship.rs/) works with most shells and operating systems
   and offers plenty of options in terms of looks and prompt configuration.
