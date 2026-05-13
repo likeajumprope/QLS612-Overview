@@ -71,7 +71,7 @@ Topics include:
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/04_intro-python_MW_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/04_2026-05-22_QLSC612_Intro-to-Python.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
 ## Resources
