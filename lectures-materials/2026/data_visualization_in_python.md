@@ -24,10 +24,10 @@ description: 👀🐍
 
 Material was prepared by [Kendra Oudyk](https://github.com/koudyk)
 
-<object data="{{ site.url }}/assets/material/12_data_viz_lecture_slides_pt2.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/12_data_viz_lecture_slides_pt1_JMMB_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
-<object data="{{ site.url }}/assets/material/12_data_viz_lecture_slides_pt2.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/12_data_viz_lecture_slides_pt2_JMMB_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 ## Resources
 

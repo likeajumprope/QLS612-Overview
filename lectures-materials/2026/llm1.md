@@ -12,7 +12,7 @@ description: 🤖💬
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/12_intro-to-llms_BMcP_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/06_qls612_llms-for-coding.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
 ## Resources
