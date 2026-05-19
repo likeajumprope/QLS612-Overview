@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🐍 Python toolbox for data analysis 🐍
+title: 🐍 Numpy and Pandas 🐍
 description: "Scientific Python: NumPy and Scipy"
 ---
 
